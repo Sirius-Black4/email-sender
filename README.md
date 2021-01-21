@@ -12,7 +12,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-## KEYLOGGER v1.0
+## SEND-EMAIL v1.0
 ### Coded by: @Sirius-Black4 (https://github.com/Sirius-Black4/email-sender)
 
 #### Credits (Copyright)
